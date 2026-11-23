@@ -1,0 +1,11 @@
+
+{
+  "network_name": "BSC Network",
+  "network_id": "bsc-test-001",
+  "coin_symbol": "BSC",
+  "max_supply": 21000000,
+  "block_time_seconds": 60,
+  "network_status": "development",
+  "is_mainnet": false,
+  "is_testnet": true
+}
