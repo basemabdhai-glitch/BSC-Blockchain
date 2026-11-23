@@ -1,0 +1,11 @@
+
+{
+  "name": "BSC",
+  "symbol": "BSC",
+  "total_supply": 21000000,
+  "decimals": 8,
+  "blockchain": "Independent Blockchain",
+  "consensus": "To be determined",
+  "status": "Test Development",
+  "network": "BSC Test Network"
+}
